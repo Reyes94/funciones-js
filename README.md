@@ -1,13 +1,15 @@
 # Funciones en JavaScript
 
-## Diversos ejercicios de funciones en JavaScript
+#### En este repositorio se encuentran diversos ejercicios de funciones en JavaScript
 
-En la carpeta assets/js se encuentran los siguientes archivos:
 
--          1funcion.js correspondiente a ejercicio 1
+#
+El detalle de la carpeta assets/js es el siguiente:
 
--          2arrow.js correspondiente a ejercicio 2
+-          1funcion.js corresponde al ejercicio 1
 
--          script.js correspondiente a ejercicio 3 (3pintar.html)
+-          2arrow.js corresponde al ejercicio 2
 
--          app.js correspondiente a ejercicio 4 (index.html)
+-          script.js corresponde al ejercicio 3 (3pintar.html)
+
+-          app.js corresponde al ejercicio 4 (index.html)
